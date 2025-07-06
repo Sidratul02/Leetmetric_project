@@ -3,7 +3,9 @@ A clean, responsive, and interactive dashboard that visualizes your LeetCode per
 Features
 
 Total Problems Solved: Real-time display of problems solved across Easy, Medium, and Hard levels.
+
 Difficulty Breakdown: Visual charts showing your strength across difficulty levels.
+
 Responsive Design: Work seemlessly on mobile, tablet and desktop.
 
 
